@@ -1,5 +1,3 @@
-#Ticket302_API
-
 Ticket302_SUNUM
 
 Merhaba, Tiket302 İstanbul - Beşiktaş Wissen Akademi'de kursiyerlik yaptığım sürede yazdık. İstanbulKart uygulamasından esinlenerek oluşturduğumuz bu projede üye akbilini kaydedip bakiyesini görebilecek ve talimat yükleyebilecektir. Asıl amacımız gerçek hayata yaklaşmak ve istihdam sürecindeki hazır bulunuşluğu maksimum seviyeye getirebilmektir.
